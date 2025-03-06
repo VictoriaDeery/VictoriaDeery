@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Help Desk Projects:</h2>
 
-- [Active Directory]([https://github.com/victoriadeery/LABURL](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md))
+- [Active Directory](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md)
 - [Azure Compute and Networking](https://github.com/victoriadeery/LABURL)
 - [Ticket Systems (osTicket)](https://github.com/victoriadeery/LABURL)
 - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/LABURL)
