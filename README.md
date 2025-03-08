@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/victoriadeery/azure-network-protocols)
 - <b>Other</b>
   - [Active Directory](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md)
-  - [Azure Compute and Networking](https://github.com/victoriadeery/LABURL)
+  - [Azure Compute and Networking](https://github.com/victoriadeery/azure-compute-and-networking)
   - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/LABURL)
   - [DNS](https://github.com/victoriadeery/LABURL)
   - [Network File Shares and Permissions](https://github.com/victoriadeery/LABURL)
