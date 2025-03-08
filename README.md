@@ -1,13 +1,21 @@
 <h1>Hi, I'm Victoria! </h1>
 
-<h2>👨‍💻 Help Desk Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- [Active Directory](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md)
-- [Azure Compute and Networking](https://github.com/victoriadeery/LABURL)
-- [Ticket Systems (osTicket)](https://github.com/victoriadeery/LABURL)
-- [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/LABURL)
-- [DNS](https://github.com/victoriadeery/LABURL)
-- [Network File Shares and Permissions](https://github.com/victoriadeery/LABURL)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>General</b>
+  - [Active Directory](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md)
+  - [Azure Compute and Networking](https://github.com/victoriadeery/LABURL)
+  - [Ticket Systems (osTicket)](https://github.com/victoriadeery/LABURL)
+  - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/LABURL)
+  - [DNS](https://github.com/victoriadeery/LABURL)
+  - [Network File Shares and Permissions](https://github.com/victoriadeery/LABURL)
 
 <h2>  Certifications:</h2>
 
@@ -28,6 +36,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
