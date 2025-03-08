@@ -9,10 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/victoriadeery/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/victoriadeery/azure-network-protocols)
-- <b>General</b>
+- <b>Other</b>
   - [Active Directory](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md)
   - [Azure Compute and Networking](https://github.com/victoriadeery/LABURL)
-  - [Ticket Systems (osTicket)](https://github.com/victoriadeery/LABURL)
   - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/LABURL)
   - [DNS](https://github.com/victoriadeery/LABURL)
   - [Network File Shares and Permissions](https://github.com/victoriadeery/LABURL)
