@@ -12,7 +12,7 @@
 - <b>Other</b>
   - [Active Directory](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md)
   - [Azure Compute and Networking](https://github.com/victoriadeery/azure-computing-and-networking)
-  - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/LABURL)
+  - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/Virtual-Private-Networks-VPNs)
   - [DNS](https://github.com/victoriadeery/LABURL)
   - [Network File Shares and Permissions](https://github.com/victoriadeery/LABURL)
 
