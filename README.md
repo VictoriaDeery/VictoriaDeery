@@ -6,16 +6,19 @@
   - [osTicket: Prerequisites and Installation](https://github.com/victoriadeery/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/victoriadeery/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/victoriadeery/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure Foundations</b>
+  - [Azure Compute and Networking](https://github.com/victoriadeery/azure-computing-and-networking)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/victoriadeery/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/victoriadeery/azure-network-protocols)
+
   - [Active Directory Set Up](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md)
   - [Active Directory Functionality](https://github.com/VictoriaDeery/ActiveDirectoryLab-pt2/blob/main/README.md)
-  - [Azure Compute and Networking](https://github.com/victoriadeery/azure-computing-and-networking)
+
   - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/Virtual-Private-Networks-VPNs)
+  - - <b>Microsoft Azure Functionalities</b>
   - [DNS](https://github.com/victoriadeery/LABURL)
   - [Network File Shares and Permissions](https://github.com/victoriadeery/LABURL)
-
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/victoriadeery/azure-network-protocols)
+    
 <h2>  Certifications:</h2>
 
  - [Information Technology](PendingPictureAndLink)
