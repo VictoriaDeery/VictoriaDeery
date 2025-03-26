@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/victoriadeery/ticket-lifecycle)
 - <b>Microsoft Azure Foundations</b>
   - [Azure Compute and Networking](https://github.com/victoriadeery/azure-computing-and-networking)
+  - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/Virtual-Private-Networks-VPNs)  
   - [Active Directory Set Up](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md)
-  - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/Virtual-Private-Networks-VPNs)
 - <b>Microsoft Azure Functionalities</b>
   - [Active Directory Functionality](https://github.com/VictoriaDeery/ActiveDirectoryLab-pt2/blob/main/README.md)
 - <b>Future Work</b>
