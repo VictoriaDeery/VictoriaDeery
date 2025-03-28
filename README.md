@@ -13,7 +13,7 @@
 - <b>Microsoft Azure Functionalities</b>
   - [Active Directory Functionality](https://github.com/VictoriaDeery/ActiveDirectoryLab-pt2/blob/main/README.md)
 - <b>Future Work</b>
-  - [DNS](https://github.com/victoriadeery/LABURL)
+  - [DNS](https://github.com/victoriadeery/DNS)
   - [Network File Shares and Permissions](https://github.com/victoriadeery/LABURL)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/victoriadeery/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/victoriadeery/configure-ad)
