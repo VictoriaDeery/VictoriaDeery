@@ -9,7 +9,7 @@
 - <b>Microsoft Azure Foundations</b>
   - [Azure Compute and Networking](https://github.com/victoriadeery/azure-computing-and-networking)
   - [Virtual Private Networks (VPNs)](https://github.com/victoriadeery/Virtual-Private-Networks-VPNs)  
-  - [Active Directory Set Up](https://github.com/VictoriaDeery/ActiveDirectoryLab/blob/main/README.md)
+  - [Active Directory Set Up](https://github.com/VictoriaDeery/ActiveDirectorySetUp/blob/main/README.md)
 - <b>Microsoft Azure Functionalities</b>
   - [Active Directory Functionality](https://github.com/VictoriaDeery/ActiveDirectoryLab-pt2/blob/main/README.md)
   - [DNS](https://github.com/victoriadeery/DNS)
