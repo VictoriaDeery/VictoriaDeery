@@ -24,7 +24,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
- - [Tutorial for Active Directory](YoutubeLinkToBeIserted)
+ - [Tutorial for Active Directory-coming soon](YoutubeLinkToBeIserted)
 
 <h2> 🤳 Connect with me:</h2>
 
